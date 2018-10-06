@@ -1,7 +1,7 @@
 # Sessions
 
 <h3>TinkerEves:</h3> <br>
-TinkerEve[0]: Intro - hosted on 25-08-2015</br>
+TinkerEve[0]: Introduction - hosted on 25-08-2015</br>
 TinkerEve[1]: Power Supply Design - hosted on 01-09-2015 <br />
 TinkerEve[2]: 3D Printing (Slides not available) - hosted on 10-09-2015<br />
 TinkerEve[3]: PCB Design - hosted on 16-09-2015<br />
