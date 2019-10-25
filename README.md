@@ -12,4 +12,4 @@ TinkerNight[1]: Basics of Embedded Programming - hosted on 06-10-2015 <br />
 TinkerNight[2]: Basics of ADC and Timers - hosted on 12-10-2015<br />
 
 <h3>Tech-Quizzes:</h3> 
-Tech-Quiz[1]: Signal Processing, Analog electronics, Embedded Systems and Robotics  - hosted on 27-10-2015<br />
+Tech-Quiz[1]: Signal Processing, Analog electronics, Embedded Systems and Robotics - hosted on 27-10-2015<br />
